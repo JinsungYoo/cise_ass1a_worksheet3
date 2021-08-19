@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+      "mongodb+srv://Jinsung:Jinsung@cluster0.a8j7t.mongodb.net/mern-pagination?retryWrites=true&w=majority"
+  }
